@@ -18,8 +18,8 @@ Welcome to my GitHub! I bring over 12 years of experience in designing scalable 
 
 ## 🚀 Featured Portfolio
 
-**[My Professional Portfolio Website](https://your-portfolio-link.com)**  
-Includes my projects, resume, certifications and automation examples.
+- **[My Professional Portfolio Website](https://your-portfolio-link.com)**  
+- Includes my projects, resume, certifications and automation examples.
 
 ---
 
